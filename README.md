@@ -60,6 +60,4 @@ Contributions to Monty are welcome! If you encounter any issues or have suggesti
 
 ## License
 Monty is released under the MIT License.
-   ```shell
-   Please make sure to replace `your-username` in the installation instructions with your actual GitHub username. You can customize the README.md file further to meet your specific needs and preferences.
-   ```
+ - Please make sure to replace `your-username` in the installation instructions with your actual GitHub username. You can customize the README.md file further to meet your specific needs and preferences.
